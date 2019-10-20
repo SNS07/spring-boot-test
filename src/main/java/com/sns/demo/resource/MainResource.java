@@ -10,7 +10,7 @@ public class MainResource {
 	
 	@GetMapping
 	public  String test() {
-		return "Hello Kuernetes";
+		return "Hello QBurst";
 	}
 
 }
